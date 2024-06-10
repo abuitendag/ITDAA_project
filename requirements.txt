@@ -1,7 +1,2 @@
-sklearn.preprocessing
-sklearn.impute
-sklearn.pipeline
-sklearn.compose
-sklearn.linear_model
-sklearn.model_selection
+sklearn
 sqlite3
