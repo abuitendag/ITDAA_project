@@ -101,7 +101,6 @@ elif thal:
     thal = 2
 else:
     thal = 3
-st.sidebar.button(label="Process",)
 
     
 # Separate features and target variable
