@@ -126,7 +126,7 @@ with col1:
     
 
 def show_result():
-    model_run = joblib.load('final/svm_model.pkl')
+    model_run = joblib.load('svm_model.pkl')
     
     user_input = {
         "age": [age],
